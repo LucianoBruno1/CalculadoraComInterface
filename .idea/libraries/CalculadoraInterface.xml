@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalculadoraInterface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CalculadoraInterface_jar/CalculadoraInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
